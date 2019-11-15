@@ -11,7 +11,13 @@ var heroStyles = Css.merge(/* :: */[
       Css.style(/* :: */[
             Css.backgroundImage(Css.url("/static/images/heroBackground.jpg")),
             /* :: */[
-              Css.backgroundPosition(Css.pct(50), Css.pct(50)),
+              Css.backgroundPosition(/* `hv */[
+                    23310,
+                    /* tuple */[
+                      Css.pct(50),
+                      Css.pct(50)
+                    ]
+                  ]),
               /* :: */[
                 Css.backgroundRepeat(Css.noRepeat),
                 /* :: */[

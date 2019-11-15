@@ -6,7 +6,7 @@ let heroStyles =
   merge([
     style([
       backgroundImage(url("/static/images/heroBackground.jpg")),
-      backgroundPosition(pct(50.), pct(50.)),
+      backgroundPosition(`hv(pct(50.), pct(50.))),
       backgroundRepeat(noRepeat),
       backgroundSize(cover),
       color(rgb(242, 242, 242)),

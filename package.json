@@ -22,7 +22,7 @@
     "aws-appsync": "^2.0.2",
     "aws-appsync-auth-link": "^1.0.1",
     "aws-appsync-subscription-link": "^1.0.1",
-    "bs-css": "^10.0.1",
+    "bs-css": "https://github.com/idkjs/bs-css.git",
     "bulma": "^0.8.0",
     "graphql": "^14.5.8",
     "graphql-tag": "^2.10.1",
