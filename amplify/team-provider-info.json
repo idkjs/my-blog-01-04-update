@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "eugenesblog-dev-20191115092220-authRole",
+            "UnauthRoleArn": "arn:aws:iam::073051392232:role/eugenesblog-dev-20191115092220-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::073051392232:role/eugenesblog-dev-20191115092220-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "eugenesblog-dev-20191115092220-deployment",
+            "UnauthRoleName": "eugenesblog-dev-20191115092220-unauthRole",
+            "StackName": "eugenesblog-dev-20191115092220",
+            "StackId": "arn:aws:cloudformation:eu-west-1:073051392232:stack/eugenesblog-dev-20191115092220/55da9430-07b3-11ea-bf2e-026ec215cf88"
+        }
+    }
+}
